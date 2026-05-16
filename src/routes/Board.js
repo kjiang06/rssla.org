@@ -32,9 +32,9 @@ class Board extends Component {
             <>
                 <BoardProfile width={this.state.width}
                     title="President"
-                    name="Rebecca Lee"
-                    major="Biochemistry, 2026"
-                    img="RebeccaLee.jpg"
+                    name="Tea Wagstaff"
+                    major="Mathematics/Economics, 2027"
+                    img="TeaWagstaff.jpg"
                     size="175% auto"
                     halign="45%"
                     valign="35%"
