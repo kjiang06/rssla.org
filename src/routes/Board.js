@@ -42,11 +42,11 @@ class Board extends Component {
                 <BoardProfile width={this.state.width}
                     title="External Vice President"
                     name="Izzy Nuñez"
-                    major="Human Biology & Society, 2027"
+                    major="Human Biology & Society, 2028"
                     img="IzzyNunez.jpg"
                     size="180% auto"
                     halign="50%"
-                    valign="60%"
+                    valign="30%"
                 />
                 <BoardProfile width={this.state.width}
                     title="Internal Vice President"
