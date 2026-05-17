@@ -32,7 +32,7 @@ class Board extends Component {
             <>
                 <BoardProfile width={this.state.width}
                     title="President"
-                    name="Tea Wagstaff"
+                    name="Téa Wagstaff"
                     major="Mathematics/Economics, 2027"
                     img="TeaWagstaff.jpg"
                     size="175% auto"
@@ -42,7 +42,7 @@ class Board extends Component {
                 <BoardProfile width={this.state.width}
                     title="External Vice President"
                     name="Izzy Nuñez"
-                    major="Human Biology & Society, 2028"
+                    major="Human Biology & Society/Sociology, 2028"
                     img="IzzyNunez.jpg"
                     size="180% auto"
                     halign="50%"
@@ -54,7 +54,7 @@ class Board extends Component {
                     major="Chemical Engineering, 2028"
                     img="AdrianAnaya.jpg"
                     size="160% auto"
-                    halign="27%"
+                    halign="53%"
                     valign = "50%"
                 />
                 <BoardProfile width={this.state.width}
@@ -90,7 +90,7 @@ class Board extends Component {
                     major="Philosophy, 2028"
                     img="TomasMazeika.jpg"
                     size="115% auto"
-                    halign="50%"
+                    halign="45%"
                     valign="15%"
                 />
 
@@ -108,7 +108,7 @@ class Board extends Component {
                     name="Luke Chambers"
                     major="Anthropology, 2027"
                     img="LukeChambers.jpg"
-                    size="140% auto"
+                    size="130% auto"
                     halign="50%"
                     valign="20%"
                 />
@@ -126,7 +126,7 @@ class Board extends Component {
                     name="Kevin Jiang"
                     major="Statistics and Data Science, 2028"
                     img="KevinJiang.jpg"
-                    size="120% auto"
+                    size="110% auto"
                     halign="55%"
                     valign="28%"
                 />
@@ -135,7 +135,7 @@ class Board extends Component {
                     name="Lilia Lei"
                     major="Psychology, 2027"
                     img="LiliaLei.jpg"
-                    size="140% auto"
+                    size="120% auto"
                     halign="55%"
                     valign="58%"
                 />
