@@ -112,11 +112,20 @@ class Board extends Component {
                     halign="50%"
                     valign="20%"
                 />
-                        <BoardProfile width={this.state.width}
+                <BoardProfile width={this.state.width}
                     title="Mentorship Director"
                     name="Stephanie Nguyen"
                     major="Neuroscience, 2028"
                     img="StephanieNguyen.jpg"
+                    size="150% auto"
+                    halign="55%"
+                    valign="58%"
+                />
+                <BoardProfile width={this.state.width}
+                    title="Webmaster"
+                    name="Kevin Jiang"
+                    major="Statistics and Data Science, 2028"
+                    img="KevinJiang.jpg"
                     size="150% auto"
                     halign="55%"
                     valign="58%"
