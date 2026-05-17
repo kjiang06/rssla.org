@@ -41,24 +41,24 @@ class Board extends Component {
                 />
                 <BoardProfile width={this.state.width}
                     title="External Vice President"
-                    name="Shannon Shams"
-                    major="Physiological Sciences, 2026"
-                    img="ShannonShams.jpg"
+                    name="Izzy Nuñez"
+                    major="Human Biology & Society, 2027"
+                    img="IzzyNunez.jpg"
                     size="180% auto"
                     halign="50%"
                     valign="60%"
                 />
                 <BoardProfile width={this.state.width}
-                    title="Secretary"
-                    name="Scarlett Greenwood"
-                    major="Psychology, 2028"
-                    img="ScarlettGreenwood.jpg"
+                    title="Internal Vice President"
+                    name="Adrian Anaya"
+                    major="Chemical Engineering, 2028"
+                    img="AdrianAnaya.jpg"
                     size="160% auto"
                     halign="47%"
                     valign = "50%"
                 />
                 <BoardProfile width={this.state.width}
-                    title="Activities Director"
+                    title="Secretary"
                     name="Adrian Anaya"
                     major="Chemical Engineering, 2028"
                     img="AdrianAnaya.jpg"
@@ -67,17 +67,17 @@ class Board extends Component {
                     valign="25%"
                 />
                 <BoardProfile width={this.state.width}
-                    title="Activities Director"
-                    name="Stephanie Nguyen"
-                    major="Neuroscience, 2028"
-                    img="StephanieNguyen.jpg"
+                    title="Educational Programs Director"
+                    name="Scarlett Greenwood"
+                    major="Psychology, 2028"
+                    img="ScarlettGreenwood.jpg"
                     size="160% auto"
                     halign="50%"
                     valign="15%"
                 />
                 <BoardProfile width={this.state.width}
                     title="Community Service Director"
-                    name="Izzy Nuñez"
+                    name="Esteban Estebes"
                     major="Human Biology & Society, 2028"
                     img="IzzyNunez.jpg"
                     size="160% auto"
@@ -96,7 +96,7 @@ class Board extends Component {
 
                 <BoardProfile width={this.state.width}
                     title="Publicity Director"
-                    name="Katie Fang"
+                    name="Kaitlyn Tchang"
                     major="World Arts and Cultures, 2026"
                     img="KatieFang.jpg"
                     size="130% auto"
@@ -114,9 +114,9 @@ class Board extends Component {
                 />
                         <BoardProfile width={this.state.width}
                     title="Mentorship Director"
-                    name="Téa Wagstaff"
-                    major="Mathematics/Economics, 2027"
-                    img="TeaWagstaff.jpg"
+                    name="Stephanie Nguyen"
+                    major="Neuroscience, 2028"
+                    img="StephanieNguyen.jpg"
                     size="150% auto"
                     halign="55%"
                     valign="58%"
