@@ -46,7 +46,7 @@ class Board extends Component {
                     img="IzzyNunez.jpg"
                     size="180% auto"
                     halign="50%"
-                    valign="30%"
+                    valign="10%"
                 />
                 <BoardProfile width={this.state.width}
                     title="Internal Vice President"
@@ -54,7 +54,7 @@ class Board extends Component {
                     major="Chemical Engineering, 2028"
                     img="AdrianAnaya.jpg"
                     size="160% auto"
-                    halign="47%"
+                    halign="27%"
                     valign = "50%"
                 />
                 <BoardProfile width={this.state.width}
@@ -62,7 +62,7 @@ class Board extends Component {
                     name="Ashley Cheng"
                     major="Anthropology, 2027"
                     img="AshleyCheng.jpg"
-                    size="145% auto"
+                    size="125% auto"
                     halign="50%"
                     valign="25%"
                 />
@@ -79,7 +79,7 @@ class Board extends Component {
                     title="Community Service Director"
                     name="Esteban Estebes"
                     major="Human Biology & Society, 2028"
-                    img="KevinJiang.jpg"
+                    img="EstebanEstebes.jpg"
                     size="160% auto"
                     halign = "50%"
                     valign="65%"
@@ -98,7 +98,7 @@ class Board extends Component {
                     title="Publicity Director"
                     name="Kaitlyn Tchang"
                     major="Political Science/Study of Religion, 2027"
-                    img="Kaitlyn Tchang.jpg"
+                    img="KaitlynTchang.jpg"
                     size="130% auto"
                     halign="55%"
                     valign="30%"
@@ -106,8 +106,8 @@ class Board extends Component {
                 <BoardProfile width={this.state.width}
                     title="Transfer Affairs Director"
                     name="Luke Chambers"
-                    major="Political Science and Philosophy, 2026"
-                    img="Luke Chambers.jpg"
+                    major="Anthropology, 2027"
+                    img="LukeChambers.jpg"
                     size="140% auto"
                     halign="50%"
                     valign="20%"
@@ -126,16 +126,16 @@ class Board extends Component {
                     name="Kevin Jiang"
                     major="Statistics and Data Science, 2028"
                     img="KevinJiang.jpg"
-                    size="150% auto"
+                    size="120% auto"
                     halign="55%"
-                    valign="58%"
+                    valign="28%"
                 />
                 <BoardProfile width={this.state.width}
                     title="Activities Director"
                     name="Lilia Lei"
                     major="Psychology, 2027"
                     img="LiliaLei.jpg"
-                    size="150% auto"
+                    size="140% auto"
                     halign="55%"
                     valign="58%"
                 />
@@ -146,13 +146,13 @@ class Board extends Component {
                     img="HarryJo.jpg"
                     size="150% auto"
                     halign="55%"
-                    valign="58%"
+                    valign="28%"
                 />
                 <BoardProfile width={this.state.width}
                     title="Funding Director"
                     name="Joshua Casillas"
                     major="Statistics and Data Science, 2028"
-                    img="KevinJiang.jpg"
+                    img="JoshuaCasillas.jpg"
                     size="150% auto"
                     halign="55%"
                     valign="58%"
