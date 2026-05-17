@@ -59,9 +59,9 @@ class Board extends Component {
                 />
                 <BoardProfile width={this.state.width}
                     title="Secretary"
-                    name="Adrian Anaya"
-                    major="Chemical Engineering, 2028"
-                    img="AdrianAnaya.jpg"
+                    name="Ashley Cheng"
+                    major="Anthropology, 2027"
+                    img="AshleyCheng.jpg"
                     size="145% auto"
                     halign="50%"
                     valign="25%"
@@ -79,7 +79,7 @@ class Board extends Component {
                     title="Community Service Director"
                     name="Esteban Estebes"
                     major="Human Biology & Society, 2028"
-                    img="IzzyNunez.jpg"
+                    img="KevinJiang.jpg"
                     size="160% auto"
                     halign = "50%"
                     valign="65%"
@@ -97,17 +97,17 @@ class Board extends Component {
                 <BoardProfile width={this.state.width}
                     title="Publicity Director"
                     name="Kaitlyn Tchang"
-                    major="World Arts and Cultures, 2026"
-                    img="KatieFang.jpg"
+                    major="Political Science/Study of Religion, 2027"
+                    img="Kaitlyn Tchang.jpg"
                     size="130% auto"
                     halign="55%"
                     valign="30%"
                 />
                 <BoardProfile width={this.state.width}
                     title="Transfer Affairs Director"
-                    name="Carlee Lincoln"
+                    name="Luke Chambers"
                     major="Political Science and Philosophy, 2026"
-                    img="CarleeLincoln.jpg"
+                    img="Luke Chambers.jpg"
                     size="140% auto"
                     halign="50%"
                     valign="20%"
@@ -124,6 +124,33 @@ class Board extends Component {
                 <BoardProfile width={this.state.width}
                     title="Webmaster"
                     name="Kevin Jiang"
+                    major="Statistics and Data Science, 2028"
+                    img="KevinJiang.jpg"
+                    size="150% auto"
+                    halign="55%"
+                    valign="58%"
+                />
+                <BoardProfile width={this.state.width}
+                    title="Activities Director"
+                    name="Lilia Lei"
+                    major="Psychology, 2027"
+                    img="LiliaLei.jpg"
+                    size="150% auto"
+                    halign="55%"
+                    valign="58%"
+                />
+                <BoardProfile width={this.state.width}
+                    title="Activities Director"
+                    name="Harry Jo"
+                    major="Global Jazz Studies, 2029"
+                    img="HarryJo.jpg"
+                    size="150% auto"
+                    halign="55%"
+                    valign="58%"
+                />
+                <BoardProfile width={this.state.width}
+                    title="Funding Director"
+                    name="Joshua Casillas"
                     major="Statistics and Data Science, 2028"
                     img="KevinJiang.jpg"
                     size="150% auto"
@@ -171,7 +198,7 @@ class BoardProfile extends Component {
         const valign = this.props.valign == null ? "0%" : this.props.valign; //picture movement vertically
         const size = this.props.size == null ? "cover" : this.props.size; //zoom
         const imgStyle = {
-            backgroundImage: `url(/images/board25-26/${this.props.img})`,
+            backgroundImage: `url(/images/board26-27/${this.props.img})`,
             backgroundRepeat: "no-repeat",
             backgroundPosition: `${halign} ${valign}`,
             backgroundSize: size
