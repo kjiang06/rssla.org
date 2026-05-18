@@ -82,7 +82,7 @@ class Board extends Component {
                     img="EstebanEstebes.jpg"
                     size="180% auto"
                     halign = "40%"
-                    valign="25%"
+                    valign="5%"
                 />
                 <BoardProfile width={this.state.width}
                     title="Funding Director"
@@ -153,9 +153,9 @@ class Board extends Component {
                     name="Joshua Casillas"
                     major="Business/Economics, 2028"
                     img="JoshuaCasillas.jpg"
-                    size="90% auto"
+                    size="100% auto"
                     halign="55%"
-                    valign="38%"
+                    valign="18%"
                 />
             </>
         )
