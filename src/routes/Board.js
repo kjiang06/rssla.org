@@ -54,7 +54,7 @@ class Board extends Component {
                     major="Chemical Engineering, 2028"
                     img="AdrianAnaya.jpg"
                     size="160% auto"
-                    halign="63%"
+                    halign="57%"
                     valign = "50%"
                 />
                 <BoardProfile width={this.state.width}
@@ -63,7 +63,7 @@ class Board extends Component {
                     major="Anthropology, 2027"
                     img="AshleyCheng.jpg"
                     size="125% auto"
-                    halign="50%"
+                    halign="55%"
                     valign="25%"
                 />
                 <BoardProfile width={this.state.width}
@@ -80,7 +80,7 @@ class Board extends Component {
                     name="Esteban Estebes"
                     major="Biology, 2029"
                     img="EstebanEstebes.jpg"
-                    size="180% auto"
+                    size="160% auto"
                     halign = "40%"
                     valign="5%"
                 />
@@ -106,7 +106,7 @@ class Board extends Component {
                 <BoardProfile width={this.state.width}
                     title="Transfer Affairs Director"
                     name="Luke Chambers"
-                    major="Geology/Anthropology, 2027"
+                    major="Geography/Anthropology, 2027"
                     img="LukeChambers.jpg"
                     size="130% auto"
                     halign="50%"
@@ -151,7 +151,7 @@ class Board extends Component {
                 <BoardProfile width={this.state.width}
                     title="Funding Director"
                     name="Joshua Casillas"
-                    major="Business/Economics, 2028"
+                    major="Business/Economics, 2027"
                     img="JoshuaCasillas.jpg"
                     size="100% auto"
                     halign="55%"
