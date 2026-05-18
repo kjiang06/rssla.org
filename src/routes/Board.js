@@ -54,7 +54,7 @@ class Board extends Component {
                     major="Chemical Engineering, 2028"
                     img="AdrianAnaya.jpg"
                     size="160% auto"
-                    halign="53%"
+                    halign="63%"
                     valign = "50%"
                 />
                 <BoardProfile width={this.state.width}
@@ -81,7 +81,7 @@ class Board extends Component {
                     major="Biology, 2029"
                     img="EstebanEstebes.jpg"
                     size="180% auto"
-                    halign = "50%"
+                    halign = "40%"
                     valign="25%"
                 />
                 <BoardProfile width={this.state.width}
@@ -153,9 +153,9 @@ class Board extends Component {
                     name="Joshua Casillas"
                     major="Business/Economics, 2028"
                     img="JoshuaCasillas.jpg"
-                    size="110% auto"
+                    size="90% auto"
                     halign="55%"
-                    valign="58%"
+                    valign="38%"
                 />
             </>
         )
