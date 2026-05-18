@@ -78,7 +78,7 @@ class Board extends Component {
                 <BoardProfile width={this.state.width}
                     title="Community Service Director"
                     name="Esteban Estebes"
-                    major="Human Biology & Society, 2028"
+                    major="Biology, 2029"
                     img="EstebanEstebes.jpg"
                     size="160% auto"
                     halign = "50%"
@@ -106,7 +106,7 @@ class Board extends Component {
                 <BoardProfile width={this.state.width}
                     title="Transfer Affairs Director"
                     name="Luke Chambers"
-                    major="Anthropology, 2027"
+                    major="Geology/Anthropology, 2027"
                     img="LukeChambers.jpg"
                     size="130% auto"
                     halign="50%"
