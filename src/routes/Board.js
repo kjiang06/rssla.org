@@ -87,7 +87,7 @@ class Board extends Component {
                 <BoardProfile width={this.state.width}
                     title="Funding Director"
                     name="Tomas Mazeika"
-                    major="Philosophy, 2028"
+                    major="Philosophy, 2027"
                     img="TomasMazeika.jpg"
                     size="115% auto"
                     halign="45%"
