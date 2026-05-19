@@ -149,7 +149,7 @@ class Board extends Component {
                     valign="28%"
                 />
                 <BoardProfile width={this.state.width}
-                    title="Funding Director"
+                    title="Treasurer"
                     name="Joshua Casillas"
                     major="Business/Economics, 2027"
                     img="JoshuaCasillas.jpg"
@@ -180,13 +180,6 @@ class Board extends Component {
                         </div>
                     }
                 </div>
-
-                    <TextPanel 
-                    id="eboard-asterisk"
-                >
-                        *Vacant positions: Internal Vice President, Treasurer, Educational Programs Director, Webmaster
-                
-                        </TextPanel>
             </RSSPage>
         )
     }
